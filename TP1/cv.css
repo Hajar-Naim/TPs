@@ -1,0 +1,26 @@
+
+h2{
+  color:#440A67;
+  font-family: Calisto MT;
+}
+body {
+  background-color : #F6DFEB
+}
+
+p,table,ul{
+font-family: sans-serif ;
+font-style: normal;
+  }
+.imgcirculaire{
+     border-radius: 50%;
+
+   }
+#description{
+  color: #150E56;
+}
+   .center{
+     text-align: center;
+   }
+  #nom{
+    color:  #93329E;
+  }
